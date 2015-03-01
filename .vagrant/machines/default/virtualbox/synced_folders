@@ -1,0 +1,1 @@
+{"nfs":{"/var/www/project":{"type":"nfs","guestpath":"/var/www/project","hostpath":"/Users/dlugs/Projects/www/ansible-vagrant-template","disabled":false,"map_uid":501,"map_gid":20,"nfs_udp":true,"nfs_version":3,"uuid":"3028978277"}},"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/dlugs/Projects/www/ansible-vagrant-template","disabled":false}}}
